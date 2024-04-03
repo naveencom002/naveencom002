@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveenkumar B</h1>
-<h3 align="center">A passionate Cybersecuirty Analyst from Tamilnadu</h3>
+<h3 align="center">A passionate Cybersecurity Analyst from Tamilnadu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveencom002&label=Profile%20views&color=0e75b6&style=flat" alt="naveencom002" /> </p>
 
